@@ -4,6 +4,7 @@
 
 <!-- knock code pictures 敲代码的图片 -->
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="549" height="352">
+
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://dishuz.github.io/blog/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -27,7 +28,7 @@
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.cqupt.edu.cn/">CQUPT</a>**, majoring in **Software Engineering**
-- 🌱 I am skilled in **back-end** developing with **Java**, proficiency using **MySQL, Redis** in practical application
+- 🌱 I am skilled in **back-end** developing with **Java**, proficiency using **MySQL, Redis** in practical application <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />
 - 🔍 You can get in touch with me by email at [dishu_zzs@163.com](mailto:dishu_zzs@163.com)
 
 </div>
@@ -141,9 +142,14 @@
 
   ## 📊 Code Statics 
 </div>
-<img align="" height="145px" src="https://github-readme-stats.vercel.app/api?username=DishuZ&hide_title=true&hide_border=true&show_icons=true&theme=gruvbox" />
-<img align="" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishuZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 
+
+
+<br/>
+
+<img align="" height="145px" src="https://github-readme-stats.vercel.app/api?username=DishuZ&hide_title=true&hide_border=true&show_icons=true&theme=gruvbox" />
+
+<img align="" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishuZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 
 <div align="left"> 
 
@@ -168,4 +174,6 @@ Here are some ideas to get you started:
 
 https://github.com/BEPb/BEPb/blob/main/README.md
 https://github.com/SalvatoreYang/SalvatoreYang/blob/main/README.md
+https://github.com/ApoorvTyagi/ApoorvTyagi/blob/master/README.md
+https://zhuanlan.zhihu.com/p/593714446
 -->
