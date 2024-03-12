@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I am Salvatore, a student from University of Science and Technology of China.
+# Hi, I am Zenbu, a student from Chongqing University of Posts and Telecommunications.
 
 <!-- knock code pictures 敲代码的图片 -->
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="549" height="352">
@@ -8,6 +8,7 @@
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://dishuz.github.io/blog/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="https://leetcode.cn/u/zenbu/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-力扣-brightblue" /></a>&emsp;
   <!-- <a href="https://space.bilibili.com/25989625"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;-->
   <!-- <a href="https://www.zhihu.com/people/Salvatore/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;-->
   <!-- <a href="https://github.com/DishuZ/DishuZ/stargazers"><img src="https://img.shields.io/github/stars/DishuZ/DishuZ.svg?logo=github"></a> -->
@@ -28,8 +29,8 @@
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.cqupt.edu.cn/">CQUPT</a>**, majoring in **Software Engineering**
-- 🌱 I am skilled in **back-end** developing with **Java**, proficiency using **MySQL, Redis** in practical application <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />
-- 🔍 You can get in touch with me by email at [dishu_zzs@163.com](mailto:dishu_zzs@163.com)
+- ⚔ I am skilled in **back-end** developing with **Java**, proficiency using **MySQL, Redis** in practical application <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />
+- 📧 You can get in touch with me by email at [dishu_zzs@163.com](mailto:dishu_zzs@163.com)
 
 </div>
 
@@ -73,8 +74,8 @@
   
 | Property                                        | Data    |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language**                                    | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="57" height="57"/> <br/> ![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logoColor=8bd3dd)       |
-| **IDE**                                         |  ![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot&logoColor=%23e4f7e2)   ![IDEA](https://img.shields.io/badge/-IDEA-3776AB?style=flat&logo=intellijidea&logoColor=while) ![Python Badge](https://img.shields.io/badge/-VS%20Code-3776AB?style=flat&logo=visualstudiocode&logoColor=white)  ![Pycharm Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Pycharm&logoColor=white) |
+| **Language**                                    | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="57" height="57"/> <br/> ![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logoColor=8bd3dd)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot&logoColor=%23e4f7e2)    |
+| **IDE**                                         |  ![IDEA](https://img.shields.io/badge/-IDEA-3776AB?style=flat&logo=intellijidea&logoColor=while) ![Python Badge](https://img.shields.io/badge/-VS%20Code-3776AB?style=flat&logo=visualstudiocode&logoColor=white)      ![Pycharm Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Pycharm&logoColor=white) |
 | **Domain Knownledge**                           | ![Back-End](https://img.shields.io/badge/-Back%20End-90b4ce?style=flat&logoColor=white)  [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ADishuZ&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ADishuZ&type=Repositories)          |
 | **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://dishuz.github.io/blog/) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://dishuz.github.io/blog/) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/DishuZ/DishuZ)       |
 | **Databases**                                   | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=%23ffffff)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=%23ffffff)   |
@@ -85,12 +86,21 @@
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 -->
 
----
+<div align="left">
+  
+### 📚 Plan to learn
+
+ - <a href="https://www.hello-algo.com/" target="_blank">Hello-algorithm</a> 
+ - <a href="https://leetcode.cn/studyplan/top-100-liked/" target="_blank">LeetCode</a>
+</div>
+
+
 <!--
 <div align="left">
 
 ### 📦 My Skill Set
 <img align="right" alt="GIF" src="https://github.com/SalvatoreYang/docs/blob/gh-pages/assets/img/hacker_a.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+
 
 **📚 Languages and Frameworks**
 
@@ -107,6 +117,8 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" title="Vue"></code>
 <code><img height="20" src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" title="React"></code>
+
+
 
 **🧰 Tools and Environments**
 
@@ -125,17 +137,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" alt="Gradle" title="Gradle"></code>
 
 
-**🍔 plan to learn**
-
- - <a href="https://pdos.csail.mit.edu/6.824/schedule.html" target="_blank">6.824Lab</a> 
- - <a href="https://pdos.csail.mit.edu/6.824/schedule.html" target="_blank">System Programing in C</a> 
- - <a href="https://pdos.csail.mit.edu/6.824/schedule.html" target="_blank">K8s + gRPC</a> 
-
 </div>
-
+-->
 ---
 
--->
+
 
 
 <div align="left"> 
