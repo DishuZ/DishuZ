@@ -92,6 +92,7 @@
 
  - <a href="https://www.hello-algo.com/" target="_blank">Hello-algorithm</a> 
  - <a href="https://leetcode.cn/studyplan/top-100-liked/" target="_blank">LeetCode</a>
+ <img align="" height="130px" src="https://stats.justsong.cn/api/leetcode?username=zenbu&cn=true&theme=dark" />
 </div>
 
 
@@ -153,9 +154,9 @@
 
 <br/>
 
-<img align="" height="145px" src="https://github-readme-stats.vercel.app/api?username=DishuZ&hide_title=true&hide_border=true&show_icons=true&theme=gruvbox" />
+<img align="" width="" height="150px" src="https://github-readme-stats.vercel.app/api?username=DishuZ&hide_title=true&hide_border=true&show_icons=true&theme=gruvbox" />
 
-<img align="" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishuZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishuZ&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=gruvbox" />
 
 <div align="left"> 
 
